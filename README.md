@@ -1,2 +1,2 @@
 # AdTech-Price-prediction
-ML Prediction model for predicting Ad price for aN Adtech Firm.
+ML Prediction model for predicting Ad price for an Adtech Firm.
